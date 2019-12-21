@@ -5,7 +5,7 @@ def position_taken()
 end
 
 def some_new_fabulous_method
-  if position_taken = FALSE then
+  if position_taken = FALSE then board[index] between
     
     
 
