@@ -8,4 +8,3 @@ def some_new_fabulous_method
   if position_taken = FALSE then board[index] between?(0,8)
   else nil
 end
-end
